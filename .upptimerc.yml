@@ -5,6 +5,8 @@ repo: solar-control-status # The name of this repository
 sites:
   - name: Solar Control Site
     url: https://www.solar-control.tech
+  - name: Bot Core
+    url: https://botapi.solar-control.tech
   - name: Solar Control Viber Bot
     url: $VIBER
     expectedStatusCodes:
