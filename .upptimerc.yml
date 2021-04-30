@@ -18,7 +18,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.solar-control.tech
   #baseUrl: /solar-control-status
-  logoUrl: https://www.solar-control.tech/assets/images/logo.svg
+  logoUrl: https://www.solar-control.tech/assets/images/logo-2.svg
   name: Solar Control Uptime
   introTitle: "**Solar Control Uptime** - це сторінка, що показує стан основних сервісів компанії Solar Control"
   navbar:
