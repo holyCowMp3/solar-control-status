@@ -1,20 +1,60 @@
 [
   {
-    "name": "Sola Control Site",
+    "name": "Solar Control Site",
     "url": "https://www.solar-control.tech",
     "icon": "https://favicons.githubusercontent.com/www.solar-control.tech",
-    "slug": "sola-control-site",
+    "slug": "solar-control-site",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 128,
-    "timeWeek": 128,
-    "timeMonth": 128,
-    "timeYear": 128,
+    "time": 151,
+    "timeDay": 151,
+    "timeWeek": 151,
+    "timeMonth": 151,
+    "timeYear": 151,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Solar Control Viber Bot",
+    "url": "$VIBER",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "solar-control-viber-bot",
+    "status": "down",
+    "uptime": "10.07%",
+    "uptimeDay": "10.07%",
+    "uptimeWeek": "10.07%",
+    "uptimeMonth": "10.07%",
+    "uptimeYear": "10.07%",
+    "time": 51,
+    "timeDay": 51,
+    "timeWeek": 51,
+    "timeMonth": 51,
+    "timeYear": 51,
+    "dailyMinutesDown": {
+      "2021-04-30": 0
+    }
+  },
+  {
+    "name": "Solar Control Cloud",
+    "url": "$API_SOLCON",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "solar-control-cloud",
+    "status": "down",
+    "uptime": "18.95%",
+    "uptimeDay": "18.95%",
+    "uptimeWeek": "18.95%",
+    "uptimeMonth": "18.95%",
+    "uptimeYear": "18.95%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-04-30": 0
+    }
   }
 ]
