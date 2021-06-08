@@ -4,19 +4,19 @@
     "url": "https://www.solar-control.tech",
     "icon": "https://favicons.githubusercontent.com/www.solar-control.tech",
     "slug": "solar-control-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 303,
-    "timeWeek": 268,
-    "timeMonth": 243,
-    "timeYear": 236,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "96.10%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.90%",
+    "time": 235,
+    "timeDay": 254,
+    "timeWeek": 255,
+    "timeMonth": 241,
+    "timeYear": 235,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 56
     }
   },
   {
@@ -62,9 +62,9 @@
     "url": "$API_SOLCON",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "solar-control-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,6 +73,8 @@
     "timeWeek": 460,
     "timeMonth": 461,
     "timeYear": 460,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   }
 ]
