@@ -4,18 +4,20 @@
     "url": "https://www.solar-control.tech",
     "icon": "https://favicons.githubusercontent.com/www.solar-control.tech",
     "slug": "solar-control-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 363,
-    "timeWeek": 272,
+    "timeDay": 303,
+    "timeWeek": 268,
     "timeMonth": 243,
     "timeYear": 236,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "Bot Core",
