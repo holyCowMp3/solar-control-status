@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/www.solar-control.tech",
     "slug": "solar-control-site",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 237,
-    "timeDay": 311,
-    "timeWeek": 278,
-    "timeMonth": 249,
+    "timeDay": 233,
+    "timeWeek": 254,
+    "timeMonth": 251,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2021-06-08": 56
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 505,
-    "timeDay": 612,
-    "timeWeek": 506,
-    "timeMonth": 520,
-    "timeYear": 505,
+    "time": 508,
+    "timeDay": 621,
+    "timeWeek": 507,
+    "timeMonth": 525,
+    "timeYear": 508,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.83%",
-    "time": 617,
-    "timeDay": 305,
-    "timeWeek": 241,
-    "timeMonth": 873,
-    "timeYear": 617,
+    "time": 611,
+    "timeDay": 328,
+    "timeWeek": 244,
+    "timeMonth": 877,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2021-05-27": 101
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 460,
-    "timeDay": 551,
-    "timeWeek": 481,
-    "timeMonth": 464,
-    "timeYear": 460,
+    "time": 461,
+    "timeDay": 522,
+    "timeWeek": 475,
+    "timeMonth": 467,
+    "timeYear": 461,
     "dailyMinutesDown": {
       "2021-06-08": 16
     }
