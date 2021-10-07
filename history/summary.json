@@ -24,9 +24,9 @@
     "url": "https://botapi.solar-control.tech",
     "icon": "https://favicons.githubusercontent.com/botapi.solar-control.tech",
     "slug": "bot-core",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -36,6 +36,7 @@
     "timeMonth": 575,
     "timeYear": 516,
     "dailyMinutesDown": {
+      "2021-10-07": 0,
       "2021-08-14": 56,
       "2021-07-29": 20,
       "2021-07-13": 51
