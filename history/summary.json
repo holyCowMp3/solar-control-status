@@ -61,9 +61,9 @@
     "url": "$VIBER",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "solar-control-viber-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -73,6 +73,7 @@
     "timeMonth": 176,
     "timeYear": 331,
     "dailyMinutesDown": {
+      "2022-04-26": 0,
       "2022-02-24": 36,
       "2021-09-01": 29,
       "2021-05-27": 101
