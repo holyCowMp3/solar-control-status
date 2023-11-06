@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.96%",
-    "time": 247,
-    "timeDay": 505,
-    "timeWeek": 380,
-    "timeMonth": 252,
-    "timeYear": 238,
+    "time": 254,
+    "timeDay": 3619,
+    "timeWeek": 865,
+    "timeMonth": 356,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2023-05-03": 60,
       "2023-04-27": 29,
@@ -31,8 +31,7 @@
       "2022-11-10": 1440,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
-      "2022-11-07": 1440,
-      "2022-11-06": 1268
+      "2022-11-07": 1440
     }
   },
   {
@@ -41,16 +40,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/botapi.solar-control.tech.ico",
     "slug": "bot-core",
     "status": "up",
-    "uptime": "97.13%",
+    "uptime": "97.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.93%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "95.03%",
-    "time": 580,
-    "timeDay": 810,
-    "timeWeek": 617,
-    "timeMonth": 504,
-    "timeYear": 607,
+    "time": 587,
+    "timeDay": 4758,
+    "timeWeek": 1083,
+    "timeMonth": 624,
+    "timeYear": 619,
     "dailyMinutesDown": {
       "2023-11-03": 16,
       "2023-10-05": 16,
@@ -77,8 +76,7 @@
       "2022-11-10": 1440,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
-      "2022-11-07": 1440,
-      "2022-11-06": 1268
+      "2022-11-07": 1440
     }
   },
   {
@@ -87,18 +85,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-control-viber-bot",
     "status": "down",
-    "uptime": "63.14%",
+    "uptime": "63.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "7.29%",
+    "uptimeYear": "7.02%",
     "time": 184,
-    "timeDay": 309,
-    "timeWeek": 181,
-    "timeMonth": 130,
+    "timeDay": 281,
+    "timeWeek": 180,
+    "timeMonth": 133,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2023-11-05": 41,
+      "2023-11-06": 39,
+      "2023-11-05": 1440,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
@@ -446,15 +445,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-control-cloud",
     "status": "up",
-    "uptime": "95.48%",
+    "uptime": "95.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.96%",
-    "time": 428,
-    "timeDay": 444,
-    "timeWeek": 446,
-    "timeMonth": 383,
+    "uptimeYear": "91.24%",
+    "time": 427,
+    "timeDay": 508,
+    "timeWeek": 447,
+    "timeMonth": 386,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2023-08-29": 680,
@@ -493,8 +492,7 @@
       "2022-11-10": 1440,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
-      "2022-11-07": 1440,
-      "2022-11-06": 1440
+      "2022-11-07": 1440
     }
   }
 ]
