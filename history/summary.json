@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.solar-control.tech.ico",
     "slug": "solar-control-site",
     "status": "up",
-    "uptime": "98.11%",
+    "uptime": "98.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.85%",
-    "time": 254,
-    "timeDay": 207,
-    "timeWeek": 333,
-    "timeMonth": 385,
-    "timeYear": 249,
+    "uptimeYear": "98.13%",
+    "time": 255,
+    "timeDay": 347,
+    "timeWeek": 322,
+    "timeMonth": 396,
+    "timeYear": 250,
     "dailyMinutesDown": {
       "2023-05-03": 60,
       "2023-04-27": 29,
@@ -23,8 +23,7 @@
       "2022-11-18": 1440,
       "2022-11-17": 1440,
       "2022-11-16": 1440,
-      "2022-11-15": 1440,
-      "2022-11-14": 1440
+      "2022-11-15": 1440
     }
   },
   {
@@ -37,12 +36,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "96.92%",
+    "uptimeYear": "97.19%",
     "time": 588,
-    "timeDay": 398,
-    "timeWeek": 525,
-    "timeMonth": 637,
-    "timeYear": 617,
+    "timeDay": 439,
+    "timeWeek": 517,
+    "timeMonth": 641,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2023-11-03": 16,
       "2023-10-05": 16,
@@ -61,8 +60,7 @@
       "2022-11-18": 1440,
       "2022-11-17": 1440,
       "2022-11-16": 1440,
-      "2022-11-15": 1440,
-      "2022-11-14": 1440
+      "2022-11-15": 1440
     }
   },
   {
@@ -71,18 +69,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-control-viber-bot",
     "status": "down",
-    "uptime": "62.59%",
+    "uptime": "62.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "5.10%",
+    "uptimeYear": "4.83%",
     "time": 182,
-    "timeDay": 45,
-    "timeWeek": 117,
-    "timeMonth": 122,
-    "timeYear": 166,
+    "timeDay": 118,
+    "timeWeek": 104,
+    "timeMonth": 125,
+    "timeYear": 165,
     "dailyMinutesDown": {
-      "2023-11-13": 39,
+      "2023-11-14": 38,
+      "2023-11-13": 1440,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
@@ -442,11 +441,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.16%",
-    "time": 427,
-    "timeDay": 333,
-    "timeWeek": 372,
-    "timeMonth": 378,
+    "uptimeYear": "93.43%",
+    "time": 426,
+    "timeDay": 362,
+    "timeWeek": 361,
+    "timeMonth": 380,
     "timeYear": 423,
     "dailyMinutesDown": {
       "2023-08-29": 680,
@@ -477,8 +476,7 @@
       "2022-11-18": 1440,
       "2022-11-17": 1440,
       "2022-11-16": 1440,
-      "2022-11-15": 1440,
-      "2022-11-14": 1440
+      "2022-11-15": 1440
     }
   }
 ]
