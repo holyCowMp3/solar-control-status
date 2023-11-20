@@ -9,16 +9,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.77%",
     "time": 255,
-    "timeDay": 237,
-    "timeWeek": 299,
-    "timeMonth": 415,
+    "timeDay": 238,
+    "timeWeek": 303,
+    "timeMonth": 418,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2023-05-03": 60,
-      "2023-04-27": 29,
-      "2022-11-20": 1154
+      "2023-04-27": 29
     }
   },
   {
@@ -31,11 +30,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "98.56%",
-    "time": 587,
-    "timeDay": 567,
-    "timeWeek": 494,
-    "timeMonth": 652,
+    "uptimeYear": "98.84%",
+    "time": 588,
+    "timeDay": 547,
+    "timeWeek": 515,
+    "timeMonth": 656,
     "timeYear": 615,
     "dailyMinutesDown": {
       "2023-11-03": 16,
@@ -49,8 +48,7 @@
       "2022-12-02": 1116,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
-      "2022-11-29": 785,
-      "2022-11-20": 1154
+      "2022-11-29": 785
     }
   },
   {
@@ -59,18 +57,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-control-viber-bot",
     "status": "down",
-    "uptime": "62.19%",
+    "uptime": "62.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.46%",
-    "time": 182,
-    "timeDay": 261,
-    "timeWeek": 123,
-    "timeMonth": 129,
-    "timeYear": 164,
+    "uptimeYear": "3.18%",
+    "time": 183,
+    "timeDay": 239,
+    "timeWeek": 151,
+    "timeMonth": 135,
+    "timeYear": 165,
     "dailyMinutesDown": {
-      "2023-11-19": 42,
+      "2023-11-20": 40,
+      "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
@@ -436,11 +435,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.80%",
+    "uptimeYear": "95.07%",
     "time": 426,
-    "timeDay": 468,
-    "timeWeek": 374,
-    "timeMonth": 381,
+    "timeDay": 455,
+    "timeWeek": 391,
+    "timeMonth": 386,
     "timeYear": 423,
     "dailyMinutesDown": {
       "2023-08-29": 680,
@@ -465,8 +464,7 @@
       "2022-11-24": 1440,
       "2022-11-23": 1440,
       "2022-11-22": 1440,
-      "2022-11-21": 1440,
-      "2022-11-20": 1440
+      "2022-11-21": 1440
     }
   }
 ]
