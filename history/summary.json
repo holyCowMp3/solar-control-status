@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 254,
-    "timeDay": 250,
-    "timeWeek": 187,
-    "timeMonth": 397,
+    "timeDay": 274,
+    "timeWeek": 200,
+    "timeMonth": 398,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2023-05-03": 60,
@@ -30,11 +30,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.05%",
+    "uptimeYear": "99.21%",
     "time": 587,
-    "timeDay": 672,
-    "timeWeek": 575,
-    "timeMonth": 684,
+    "timeDay": 488,
+    "timeWeek": 571,
+    "timeMonth": 682,
     "timeYear": 617,
     "dailyMinutesDown": {
       "2023-11-03": 16,
@@ -46,8 +46,7 @@
       "2023-04-27": 28,
       "2023-01-03": 76,
       "2022-12-02": 1116,
-      "2022-12-01": 1440,
-      "2022-11-30": 1440
+      "2022-12-01": 1440
     }
   },
   {
@@ -56,18 +55,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-control-viber-bot",
     "status": "down",
-    "uptime": "61.53%",
+    "uptime": "61.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.72%",
+    "uptimeYear": "0.44%",
     "time": 182,
-    "timeDay": 45,
-    "timeWeek": 209,
-    "timeMonth": 169,
+    "timeDay": 21,
+    "timeWeek": 172,
+    "timeMonth": 160,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2023-11-29": 40,
+      "2023-11-30": 39,
+      "2023-11-29": 1440,
       "2023-11-28": 1440,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
@@ -443,11 +443,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.84%",
+    "uptimeYear": "97.00%",
     "time": 427,
-    "timeDay": 307,
-    "timeWeek": 457,
-    "timeMonth": 419,
+    "timeDay": 310,
+    "timeWeek": 407,
+    "timeMonth": 413,
     "timeYear": 423,
     "dailyMinutesDown": {
       "2023-08-29": 680,
@@ -464,8 +464,7 @@
       "2023-03-25": 46,
       "2023-01-03": 76,
       "2022-12-02": 1116,
-      "2022-12-01": 1440,
-      "2022-11-30": 1440
+      "2022-12-01": 1440
     }
   }
 ]
