@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 255,
-    "timeDay": 266,
-    "timeWeek": 223,
-    "timeMonth": 389,
+    "time": 254,
+    "timeDay": 149,
+    "timeWeek": 216,
+    "timeMonth": 388,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2023-05-03": 60,
@@ -30,11 +30,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.48%",
+    "uptimeYear": "99.75%",
     "time": 586,
-    "timeDay": 436,
-    "timeWeek": 552,
-    "timeMonth": 679,
+    "timeDay": 470,
+    "timeWeek": 541,
+    "timeMonth": 682,
     "timeYear": 616,
     "dailyMinutesDown": {
       "2023-11-03": 16,
@@ -44,8 +44,7 @@
       "2023-08-22": 19,
       "2023-08-02": 16,
       "2023-04-27": 28,
-      "2023-01-03": 76,
-      "2022-12-02": 1116
+      "2023-01-03": 76
     }
   },
   {
@@ -54,18 +53,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-control-viber-bot",
     "status": "down",
-    "uptime": "61.40%",
+    "uptime": "61.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.17%",
+    "uptimeYear": "0.00%",
     "time": 182,
-    "timeDay": 94,
-    "timeWeek": 145,
-    "timeMonth": 161,
+    "timeDay": 85,
+    "timeWeek": 121,
+    "timeMonth": 163,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2023-12-01": 43,
+      "2023-12-02": 38,
+      "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
@@ -428,8 +428,7 @@
       "2022-12-06": 1440,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
-      "2022-12-03": 1440,
-      "2022-12-02": 1440
+      "2022-12-03": 1440
     }
   },
   {
@@ -438,15 +437,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-control-cloud",
     "status": "up",
-    "uptime": "95.60%",
+    "uptime": "95.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.27%",
+    "uptimeYear": "97.54%",
     "time": 427,
-    "timeDay": 357,
-    "timeWeek": 386,
-    "timeMonth": 405,
+    "timeDay": 378,
+    "timeWeek": 374,
+    "timeMonth": 409,
     "timeYear": 422,
     "dailyMinutesDown": {
       "2023-08-29": 680,
@@ -461,8 +460,7 @@
       "2023-06-25": 1121,
       "2023-06-24": 331,
       "2023-03-25": 46,
-      "2023-01-03": 76,
-      "2022-12-02": 1116
+      "2023-01-03": 76
     }
   }
 ]
