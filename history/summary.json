@@ -4,9 +4,9 @@
     "url": "https://www.solar-control.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.solar-control.tech.ico",
     "slug": "solar-control-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.47%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 232,
     "timeMonth": 183,
     "timeYear": 324,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-16": 0
+    }
   },
   {
     "name": "Bot Core",
@@ -57,7 +59,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-control-viber-bot",
     "status": "down",
-    "uptime": "50.76%",
+    "uptime": "50.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -68,7 +70,7 @@
     "timeMonth": 204,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2024-06-16": 46,
+      "2024-06-16": 448,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
