@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 203,
-    "timeWeek": 214,
-    "timeMonth": 184,
-    "timeYear": 323,
+    "timeDay": 209,
+    "timeWeek": 208,
+    "timeMonth": 186,
+    "timeYear": 322,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 686,
-    "timeDay": 425,
-    "timeWeek": 514,
+    "timeDay": 417,
+    "timeWeek": 497,
     "timeMonth": 490,
-    "timeYear": 736,
+    "timeYear": 735,
     "dailyMinutesDown": {
       "2024-05-02": 21,
       "2024-04-17": 18,
@@ -57,18 +57,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-control-viber-bot",
     "status": "down",
-    "uptime": "50.49%",
+    "uptime": "50.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 187,
-    "timeDay": 26,
-    "timeWeek": 219,
-    "timeMonth": 208,
+    "timeDay": 194,
+    "timeWeek": 205,
+    "timeMonth": 202,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2024-06-22": 41,
+      "2024-06-23": 46,
+      "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
@@ -431,8 +432,7 @@
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
-      "2023-06-25": 1440,
-      "2023-06-24": 1440
+      "2023-06-25": 1440
     }
   },
   {
@@ -446,11 +446,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.77%",
-    "time": 409,
-    "timeDay": 282,
-    "timeWeek": 522,
-    "timeMonth": 415,
-    "timeYear": 408,
+    "time": 411,
+    "timeDay": 1058,
+    "timeWeek": 552,
+    "timeMonth": 437,
+    "timeYear": 410,
     "dailyMinutesDown": {
       "2023-08-29": 680,
       "2023-08-28": 386,
@@ -461,8 +461,7 @@
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
-      "2023-06-25": 1121,
-      "2023-06-24": 331
+      "2023-06-25": 1121
     }
   }
 ]
