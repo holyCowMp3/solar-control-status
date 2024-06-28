@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.solar-control.tech.ico",
     "slug": "solar-control-site",
     "status": "up",
-    "uptime": "98.48%",
+    "uptime": "98.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 307,
-    "timeDay": 620,
-    "timeWeek": 233,
-    "timeMonth": 197,
-    "timeYear": 322,
+    "time": 308,
+    "timeDay": 333,
+    "timeWeek": 271,
+    "timeMonth": 205,
+    "timeYear": 323,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 685,
-    "timeDay": 546,
-    "timeWeek": 485,
+    "timeDay": 523,
+    "timeWeek": 437,
     "timeMonth": 481,
     "timeYear": 734,
     "dailyMinutesDown": {
@@ -57,18 +57,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-control-viber-bot",
     "status": "down",
-    "uptime": "50.27%",
+    "uptime": "50.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 187,
-    "timeDay": 296,
-    "timeWeek": 185,
-    "timeMonth": 203,
+    "time": 188,
+    "timeDay": 548,
+    "timeWeek": 220,
+    "timeMonth": 209,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2024-06-27": 43,
+      "2024-06-28": 42,
+      "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -431,8 +432,7 @@
       "2023-07-03": 1440,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
-      "2023-06-30": 1440,
-      "2023-06-29": 1440
+      "2023-06-30": 1440
     }
   },
   {
@@ -445,19 +445,18 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.33%",
-    "time": 412,
-    "timeDay": 449,
-    "timeWeek": 612,
-    "timeMonth": 464,
-    "timeYear": 412,
+    "uptimeYear": "98.61%",
+    "time": 414,
+    "timeDay": 1427,
+    "timeWeek": 713,
+    "timeMonth": 494,
+    "timeYear": 414,
     "dailyMinutesDown": {
       "2023-08-29": 680,
       "2023-08-28": 386,
       "2023-07-02": 549,
       "2023-07-01": 1440,
-      "2023-06-30": 1440,
-      "2023-06-29": 1440
+      "2023-06-30": 1440
     }
   }
 ]
