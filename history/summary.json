@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 152,
-    "timeWeek": 264,
-    "timeMonth": 207,
-    "timeYear": 323,
+    "timeDay": 554,
+    "timeWeek": 313,
+    "timeMonth": 222,
+    "timeYear": 324,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 685,
-    "timeDay": 389,
-    "timeWeek": 432,
-    "timeMonth": 476,
-    "timeYear": 734,
+    "time": 687,
+    "timeDay": 1552,
+    "timeWeek": 594,
+    "timeMonth": 507,
+    "timeYear": 737,
     "dailyMinutesDown": {
       "2024-05-02": 21,
       "2024-04-17": 18,
@@ -57,18 +57,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-control-viber-bot",
     "status": "down",
-    "uptime": "50.19%",
+    "uptime": "50.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 188,
-    "timeDay": 52,
-    "timeWeek": 224,
-    "timeMonth": 201,
-    "timeYear": 189,
+    "time": 187,
+    "timeDay": 135,
+    "timeWeek": 215,
+    "timeMonth": 187,
+    "timeYear": 190,
     "dailyMinutesDown": {
-      "2024-06-29": 42,
+      "2024-06-30": 47,
+      "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
@@ -431,8 +432,7 @@
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
-      "2023-07-02": 1440,
-      "2023-07-01": 1440
+      "2023-07-02": 1440
     }
   },
   {
@@ -445,17 +445,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.88%",
+    "uptimeYear": "99.15%",
     "time": 413,
-    "timeDay": 300,
-    "timeWeek": 716,
-    "timeMonth": 487,
-    "timeYear": 414,
+    "timeDay": 556,
+    "timeWeek": 644,
+    "timeMonth": 489,
+    "timeYear": 415,
     "dailyMinutesDown": {
       "2023-08-29": 680,
       "2023-08-28": 386,
-      "2023-07-02": 549,
-      "2023-07-01": 1440
+      "2023-07-02": 549
     }
   }
 ]
