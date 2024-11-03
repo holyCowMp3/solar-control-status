@@ -74,7 +74,7 @@
     "url": "$API_SOLCON",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-control-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "96.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -86,6 +86,7 @@
     "timeMonth": 389,
     "timeYear": 435,
     "dailyMinutesDown": {
+      "2024-11-03": 0,
       "2024-10-17": 568,
       "2024-10-16": 733,
       "2024-09-18": 693,
