@@ -4,7 +4,7 @@
     "url": "https://www.solar-control.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.solar-control.tech.ico",
     "slug": "solar-control-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 189,
     "timeYear": 244,
     "dailyMinutesDown": {
+      "2025-08-23": 0,
       "2025-03-12": 17
     }
   },
@@ -25,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/botapi.solar-control.tech.ico",
     "slug": "bot-server",
     "status": "up",
-    "uptime": "94.38%",
+    "uptime": "94.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.54%",
@@ -84,7 +85,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-control-bot-core",
     "status": "up",
-    "uptime": "94.40%",
+    "uptime": "94.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.59%",
