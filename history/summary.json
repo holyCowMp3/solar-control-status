@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 273,
-    "timeDay": 167,
-    "timeWeek": 250,
+    "timeDay": 240,
+    "timeWeek": 218,
     "timeMonth": 453,
     "timeYear": 232,
     "dailyMinutesDown": {
@@ -32,15 +32,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/botapi.solar-control.tech.ico",
     "slug": "bot-server",
     "status": "up",
-    "uptime": "93.47%",
+    "uptime": "93.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.84%",
+    "uptimeMonth": "92.13%",
     "uptimeYear": "92.43%",
     "time": 512,
-    "timeDay": 426,
-    "timeWeek": 491,
-    "timeMonth": 614,
+    "timeDay": 410,
+    "timeWeek": 479,
+    "timeMonth": 607,
     "timeYear": 511,
     "dailyMinutesDown": {
       "2025-09-18": 624,
@@ -86,8 +86,7 @@
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 755,
-      "2024-10-17": 568,
-      "2024-10-16": 734
+      "2024-10-17": 568
     }
   },
   {
@@ -96,16 +95,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-control-bot-core",
     "status": "up",
-    "uptime": "93.45%",
+    "uptime": "93.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.35%",
+    "uptimeMonth": "91.64%",
     "uptimeYear": "92.40%",
-    "time": 723,
-    "timeDay": 669,
-    "timeWeek": 880,
-    "timeMonth": 919,
-    "timeYear": 723,
+    "time": 722,
+    "timeDay": 631,
+    "timeWeek": 795,
+    "timeMonth": 911,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2025-09-19": 217,
       "2025-09-18": 624,
@@ -148,8 +147,7 @@
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 755,
-      "2024-10-17": 568,
-      "2024-10-16": 734
+      "2024-10-17": 568
     }
   },
   {
@@ -158,15 +156,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-control-cloud",
     "status": "up",
-    "uptime": "95.67%",
+    "uptime": "95.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.74%",
+    "uptimeMonth": "92.03%",
     "uptimeYear": "92.36%",
     "time": 415,
-    "timeDay": 361,
-    "timeWeek": 406,
-    "timeMonth": 394,
+    "timeDay": 306,
+    "timeWeek": 389,
+    "timeMonth": 391,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2025-09-18": 670,
@@ -208,8 +206,7 @@
       "2024-11-13": 1440,
       "2024-11-12": 754,
       "2024-11-03": 462,
-      "2024-10-17": 568,
-      "2024-10-16": 733
+      "2024-10-17": 568
     }
   }
 ]
