@@ -1,7 +1,7 @@
 url: $API_SOLCON
-status: down
-code: 502
-responseTime: 6419
-lastUpdated: 2025-11-06T02:05:31.374Z
+status: up
+code: 200
+responseTime: 5804
+lastUpdated: 2025-11-06T03:19:58.463Z
 startTime: 2021-04-30T13:21:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
