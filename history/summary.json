@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.solar-control.tech.ico",
     "slug": "solar-control-site",
     "status": "down",
-    "uptime": "97.00%",
+    "uptime": "96.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "90.65%",
+    "uptimeYear": "90.38%",
     "time": 248,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2026-01-15": 64,
+      "2026-01-16": 66,
+      "2026-01-15": 1440,
       "2026-01-14": 1440,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
@@ -74,18 +75,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/botapi.solar-control.tech.ico",
     "slug": "bot-server",
     "status": "down",
-    "uptime": "81.47%",
+    "uptime": "81.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "74.76%",
-    "time": 509,
+    "time": 510,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2026-01-15": 64,
+      "2026-01-16": 66,
+      "2026-01-15": 1440,
       "2026-01-14": 1440,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
@@ -186,8 +188,7 @@
       "2025-02-12": 1279,
       "2025-02-11": 756,
       "2025-02-04": 18,
-      "2025-01-19": 19,
-      "2025-01-16": 984
+      "2025-01-19": 19
     }
   },
   {
@@ -196,7 +197,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-control-bot-core",
     "status": "down",
-    "uptime": "85.56%",
+    "uptime": "85.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -207,7 +208,8 @@
     "timeMonth": 0,
     "timeYear": 927,
     "dailyMinutesDown": {
-      "2026-01-15": 64,
+      "2026-01-16": 66,
+      "2026-01-15": 1440,
       "2026-01-14": 1440,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
@@ -291,8 +293,7 @@
       "2025-02-12": 1279,
       "2025-02-11": 756,
       "2025-02-04": 18,
-      "2025-01-31": 16,
-      "2025-01-16": 984
+      "2025-01-31": 16
     }
   },
   {
@@ -301,7 +302,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "solar-control-cloud",
     "status": "down",
-    "uptime": "93.12%",
+    "uptime": "93.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -312,7 +313,8 @@
     "timeMonth": 0,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2026-01-15": 64,
+      "2026-01-16": 66,
+      "2026-01-15": 1440,
       "2026-01-14": 1440,
       "2026-01-13": 1440,
       "2026-01-12": 1440,
@@ -393,8 +395,7 @@
       "2025-03-20": 21,
       "2025-03-13": 295,
       "2025-02-12": 1279,
-      "2025-02-11": 755,
-      "2025-01-16": 984
+      "2025-02-11": 755
     }
   }
 ]
